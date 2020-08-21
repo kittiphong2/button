@@ -51,12 +51,16 @@ export default {
 </script>
 
 <style>
+body {
+ background-image: url("./assets/img/sky.jpg");
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #8a8686;
-  margin-top: 50px;
+  color: #ffe600;
+  margin-top: 100px;
+  margin-right: 100px;
 }
 </style>
